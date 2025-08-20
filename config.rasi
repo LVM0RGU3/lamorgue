@@ -1,0 +1,21 @@
+ configuration {
+   display-drun: "Apps  :";
+   display-window: "Window  :";
+   display-run: "Archive  :";
+   show-icons: true;
+   modi: "drun,window,run";
+}
+
+
+
+
+
+
+//@theme "/usr/share/rofi/themes/catppuccin-mocha.rasi"
+
+
+//@theme "/usr/share/rofi/themes/catppuccin-mocha.rasi"
+//@theme "/usr/share/rofi/themes/catppuccin-latte.rasi"
+//@theme "/usr/share/rofi/themes/catppuccin-frappe.rasi"
+//@theme "/usr/share/rofi/themes/catppuccin-macchiato.rasi"
+@theme "/usr/share/rofi/themes/catppuccin-mocha.rasi"
